@@ -1,0 +1,12 @@
+@media(max-width:1130px){
+    .card-container{
+        display: block !important;
+        width: 100% !important;
+    }
+    .card{
+        display: flex;
+        justify-content: space-around;
+        width: 100% !important;
+        margin: 3% 0 !important;
+    }
+}
